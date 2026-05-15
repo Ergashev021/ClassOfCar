@@ -1,2 +1,3 @@
 # Arrays
-Massiv hamda stringBuilder mavzusiga 
+**Arrays hamda OOP mavzusiga oid**
+
