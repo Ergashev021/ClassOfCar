@@ -17,19 +17,4 @@ This project is a simple C# console application that simulates a Car model with 
 - Fuel cannot exceed 100%
 
 ## Example Usage
-
-```csharp
-Car car = new Car();
-
-car.Nomi = "Mercedes Benz";
-car.Model = "W124 E500";
-car.Year = 1994;
-car.Fuel = 50;
-
-car.ShowInfo();
-
-car.Drive(100);
-
-car.Refuel(30);
-
-car.ShowInfo();
+![Reseult](/images/result.gif)

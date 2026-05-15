@@ -17,7 +17,6 @@ internal class Program
         gm.Drive(250);
         gm.Refuel(80);
         gm.ShowInfo();
-
         var merc = new Car
         {
             Nomi = "Mercedes Bens",
@@ -32,13 +31,6 @@ internal class Program
         merc.ShowInfo();
 
 
-        var apple = new Fruit
-        {
-            Name = "Apple",
-            Color = "Yellow",
-            Unit = "Count"
-        };
-        apple.Print();
     }
 }
 
